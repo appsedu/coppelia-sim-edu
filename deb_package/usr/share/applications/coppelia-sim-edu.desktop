@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=CoppeliaSim EDU
+Comment=The robot simulator CoppeliaSim,
+Icon=coppelia
+Exec=/opt/coppelia-sim-edu/coppeliaSim.sh
+Terminal=false
+Type=Application
+Categories=Science;Education;

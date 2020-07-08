@@ -1,0 +1,11 @@
+Package: coppelia-sim-edu
+Version: 4.0.0
+Installed-Size: 
+Maintainer: Crash and Eddie <crash.eddie123@gmail.com>
+Section: science
+Architecture: amd64
+Priority: optional
+Depends: libavcodec-dev, libavformat-dev, libswscale-dev
+Homepage: https://www.coppeliarobotics.com
+Description: The robot simulator CoppeliaSim.
+ CoppeliaSim is used for fast algorithm development, factory automation simulations, fast prototyping and verification, robotics related education, remote monitoring, safety double-checking, as digital twin, and much more.
